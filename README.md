@@ -7,5 +7,7 @@ for this you need to install some packages
 #Commands
 
 pip install tkinter
+
 pip install webbrowser
+
 pip install pyautogui
